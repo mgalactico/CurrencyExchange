@@ -1,5 +1,4 @@
 //Calculates currency in $ for three currencies.
-#include <iostream>
 #include "../std_lib_facilities.h"
 
 
